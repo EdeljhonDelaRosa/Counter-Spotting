@@ -1,5 +1,3 @@
-// decoy module loaded
-
 export const DecoySystem = (() => {
   let decoyEnabled = true;
   let decoyRate = 0.25;
@@ -71,3 +69,4 @@ export const DecoySystem = (() => {
     _config: () => ({ decoyEnabled, decoyRate, decoyHosts }) // debug helper
   };
 })();
+
