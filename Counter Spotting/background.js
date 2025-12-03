@@ -271,5 +271,4 @@ function sanitizeHeaders(headers = {}) {
     return safe;
 }
 
-// background service worker active
 
