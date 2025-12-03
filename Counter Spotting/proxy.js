@@ -1,7 +1,3 @@
-// proxy.js
-// Proxy rewriting engine — exported as ES module
-// proxy module
-
 export const ProxyEngine = (() => {
 
   const relayNodes = [
@@ -65,3 +61,4 @@ export const ProxyEngine = (() => {
     processOutboundRequest
   };
 })();
+
