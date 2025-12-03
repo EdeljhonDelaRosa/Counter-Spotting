@@ -9,6 +9,7 @@
 ─────────────────
 
 ✔ Load the extension via chrome://extensions/
+(Counter Spotting)
 
 ✔ Enable Developer Mode → Load unpacked
 
